@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="title">PUZZLE</string>
+    <string name="title2">M08UF2 Android</string>
+    <color name="purple">#C8BFE7</color>
+    <color name="blue">#3F48CC</color>
+    <string name="botoJugar">JUGAR</string>
+    <string name="botoMusicaON">Musica ON</string>
+    <string name="botoMusicaOFF">Musica OFF</string>
+</resources>
